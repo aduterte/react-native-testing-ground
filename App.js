@@ -11,9 +11,9 @@ export default function App() {
         <StatusBar style="auto" />
         <Text>Learning React-Native should be fun!</Text>
       </View>
-      <View style={styles.container}>
+      
         <Test/>
-      </View>
+      
       
 
     </View>
