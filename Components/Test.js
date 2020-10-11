@@ -14,11 +14,13 @@ export default function Test(){
 
 const styles = StyleSheet.create({
     container: {
-      flex: 1,
+    //   flex: 1,
       backgroundColor: 'blue',
       alignItems: 'center',
       justifyContent: 'center',
-      color: '#cfcfcf'
+      color: '#cfcfcf',
+      height:200,
+      width: 200
     },
     red: {
         color: "red"
