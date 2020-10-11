@@ -5,7 +5,7 @@ export default function Test(){
 
     return (
         
-            <Text>This is text inside my component</Text>
+            <Text>This isn't fun.</Text>
         
     )
 }

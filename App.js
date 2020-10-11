@@ -9,7 +9,7 @@ export default function App() {
       <View style={styles.container}>
         <Text>Hello World!</Text>
         <StatusBar style="auto" />
-        <Text>Test2</Text>
+        <Text>Learning React-Native should be fun!</Text>
       </View>
       <View style={styles.container}>
         <Test/>
